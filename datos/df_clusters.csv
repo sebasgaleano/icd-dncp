@@ -1,0 +1,399 @@
+convocante_limpio,monto_promedio,frecuencia,prop_directa,diversidad_proveedores,cluster
+Administración Nacional de Electricidad,55425129147.38221,607,0.17627677100494235,359,4
+Administración Nacional de Navegación y Puertos,502541029.3367347,98,0.46938775510204084,68,0
+Ag. Nac. de Eval. y Acreditación de la Educación Superior,71352847.03846154,52,0.9230769230769231,39,2
+Agencia Financiera de Desarrollo,369271716.7241379,116,0.43103448275862066,67,0
+Agencia Nacional de Transito y Seguridad Vial,174572485.72340426,47,0.6808510638297872,36,2
+Auditoria General del Poder Ejecutivo,97293602.6875,16,0.875,13,2
+Autoridad Reguladora Radiologica y Nuclear,37807333.333333336,3,1.0,3,2
+Banco Central del Paraguay,1946948921.3319502,241,0.42323651452282157,141,1
+Banco Nacional de Fomento,2261038643.4054055,259,0.2277992277992278,179,1
+Caja de Jubilaciones y Pensiones de Empleados de Bancarios,4740863344.787234,47,0.5319148936170213,33,0
+Caja de Jubilaciones y Pensiones del Personal Municipal,80734534.8108108,37,0.8108108108108109,31,2
+Caja de Jubilaciones y Pensiones del Personal de la Ande,315326346.8611111,36,0.5,28,0
+Caja de Seguridad Social de Empleados y Obreros Ferroviarios,265028166.66666666,6,0.3333333333333333,3,0
+Cañas Paraguayas S.A.,2606811133.693548,62,0.3064516129032258,40,0
+Centro Cultural de la Republica - El Cabildo,69616222.43243243,37,0.972972972972973,34,2
+Circunscripción Judicial del Dpto. Alto Paraguay,39983916.0,34,0.8529411764705882,16,2
+Circunscripción Judicial del Dpto. Alto Parana,458787481.0416667,48,0.3541666666666667,40,0
+Circunscripción Judicial del Dpto. Amambay,99507148.48484848,33,0.7878787878787878,25,2
+Circunscripción Judicial del Dpto. Caaguazu,84012571.33333333,48,0.7291666666666666,34,2
+Circunscripción Judicial del Dpto. Caazapa,175370243.6792453,53,0.5471698113207547,40,0
+Circunscripción Judicial del Dpto. Canindeyu,65425018.66037736,53,0.8301886792452831,32,2
+Circunscripción Judicial del Dpto. Central,366801489.3773585,53,0.39622641509433965,38,0
+Circunscripción Judicial del Dpto. Concepción,81135901.32911393,79,0.8227848101265823,49,2
+Circunscripción Judicial del Dpto. Encarnación,428083654.03174603,63,0.5079365079365079,49,0
+Circunscripción Judicial del Dpto. Guaira,99484760.8852459,61,0.7540983606557377,47,2
+Circunscripción Judicial del Dpto. Misiones,171048548.41379312,29,0.6206896551724138,25,2
+Circunscripción Judicial del Dpto. Paraguarí,255846553.325,40,0.55,32,0
+Circunscripción Judicial del Dpto. San Pedro,77221672.0,50,0.7,38,2
+Circunscripción Judicial del Dpto. Ñeembucu,89454322.94339623,53,0.6037735849056604,36,2
+Colegio Experimental Paraguay - Brasil,44319376.325581394,43,1.0,29,2
+Comando Logistico Uoc 5,2659941131.992806,278,0.2949640287769784,117,1
+Comando de la Armada Uoc 3,796961597.2619047,168,0.5357142857142857,81,1
+Comando de la Fuerza Aerea Uoc 4,830244792.513834,253,0.549407114624506,109,1
+Comando del Ejercito Uoc 2,734662986.2702702,222,0.45495495495495497,94,1
+Comando en Jefe Uoc 1,671917898.75,248,0.5282258064516129,100,1
+Comisión Nac. de Prevención contra la Tortura y Otros Tratos,124818787.8888889,27,0.7407407407407407,20,2
+Comisión Nacional de Competencia,26474981.695652176,23,1.0,20,2
+Comisión Nacional de Telecomunicaciones,2353088138.830769,65,0.3230769230769231,50,0
+Comisión Nacional de Valores,96824466.97142857,35,0.7142857142857143,24,2
+Compañía Paraguaya de Comunicaciones,1212911549.522388,67,0.1791044776119403,44,0
+Congreso Nacional,347026467.890511,137,0.7226277372262774,89,2
+Consejo Nacional de Ciencia y Tecnología,402098791.91071427,56,0.6071428571428571,43,2
+Consejo Nacional de Educación Superior,342761431.516129,31,0.6129032258064516,29,2
+Consejo de la Magistratura,140974607.15789473,57,0.9298245614035088,36,2
+Contraloría General de la República,676954172.1509434,53,0.6226415094339622,41,2
+Corte Suprema de Justicia,3266885089.970238,168,0.18452380952380953,113,1
+Crédito Agrícola de Habilitación,1105293790.67,100,0.39,73,0
+Defensoría del Pueblo,492574750.0,4,0.5,4,0
+Direccion General de Salud Ambiental,1626647270.487805,41,0.5121951219512195,34,0
+Direccion General del Registro del Estado Civil,283948778.4339623,53,0.5660377358490566,41,0
+Direccion Nacional de Propiedad Intelectual,202946592.05555555,72,0.625,48,2
+Direccion Nacional de Transporte,1209660185.7906976,43,0.3953488372093023,28,0
+Dirección Nacional de Aeronáutica Civil,737907545.798122,213,0.4694835680751174,123,1
+Dirección Nacional de Contrataciones Públicas,407288974.0673077,104,0.5384615384615384,67,0
+Dirección Nacional de Correos del Paraguay,169854730.76923078,13,0.5384615384615384,12,0
+"Dirección Nacional de Defensa, Salud y Bienestar Animal",44554488.0,24,0.9583333333333334,18,2
+Dirección Nacional de Ingresos Tributarios,2058626129.4264152,265,0.2339622641509434,150,1
+Dirección Nacional de Migraciones,246519317.25714287,70,0.44285714285714284,51,0
+Dirección de Beneficencia,5377485788.785714,112,0.3392857142857143,66,0
+Empresa de Servicios Sanitarios del Paraguay,4075777991.964467,197,0.20812182741116753,111,1
+Ente Regulador de Servicios Sanitarios,77182183.57142857,28,0.7857142857142857,19,2
+Escribania Mayor de Gobierno,8024000.0,8,1.0,6,2
+Fac. de Ing. Agronomica,32825547.391304348,23,1.0,12,2
+Facultad Politecnica,155433806.12121212,132,0.696969696969697,79,2
+Facultad de Arquitectura,103643945.22891566,83,0.9518072289156626,54,2
+Facultad de Ciencias Agrarias,102342501.075,40,0.8,31,2
+Facultad de Ciencias Economicas,107790090.78947368,114,0.8771929824561403,81,2
+Facultad de Ciencias Exactas y Naturales,244325477.25,40,0.675,34,2
+Facultad de Ciencias Medicas,3062478007.374459,462,0.2987012987012987,174,1
+Facultad de Ciencias Quimicas,99557400.729927,137,0.7956204379562044,59,2
+Facultad de Ciencias Sociales y Politicas,30236391.0,5,0.8,4,2
+Facultad de Ciencias Tecnologicas,41377265.2,25,0.92,16,2
+Facultad de Ciencias Veterinarias,297833320.7777778,81,0.3333333333333333,64,0
+Facultad de Ciencias de la Producción,48054774.29090909,55,0.8181818181818182,30,2
+Facultad de Ciencias de la Salud,38037165.047619045,21,0.8095238095238095,15,2
+Facultad de Derecho y Ciencias Sociales,81727053.73394495,109,0.8165137614678899,56,2
+Facultad de Enfermeria y Obstetricia,13631296.153846154,13,1.0,8,2
+Facultad de Filosofia,78814729.390625,64,0.90625,43,2
+Facultad de Ingenieria,130976415.07246377,138,0.7246376811594203,79,2
+Facultad de Medicina,31647024.647058822,17,0.9411764705882353,11,2
+Facultad de Odontologia,65409801.487804875,41,1.0,24,2
+Facultad de Odontologia Santo Tomas de Aquino,65401446.777777776,9,0.8888888888888888,6,2
+Facultad de enfermería y obstetricia de la Universidad Nacional de Asunción,48059955.03448276,29,0.9310344827586207,24,2
+Fondo Ganadero,100031117.78947368,38,0.9210526315789473,35,2
+Fondo Nacional de la Cultura y las Artes,41322174.92307692,13,0.9230769230769231,9,2
+Fuerzas Militares Uoc 6,309410060.85714287,28,0.9285714285714286,21,2
+Gabinete Civil,307533491.8701299,77,0.42857142857142855,48,0
+Gabinete Militar,232362353.0,93,0.7204301075268817,62,2
+Gobierno Departamental de Alto Paraguay,4379000819.259259,27,0.25925925925925924,17,0
+Gobierno Departamental de Alto Paraná,3595780781.312,125,0.16,56,0
+Gobierno Departamental de Amambay,3585706914.59375,32,0.15625,16,0
+Gobierno Departamental de Boquerón,2128665895.3513513,74,0.40540540540540543,42,0
+Gobierno Departamental de Caaguazú,1718832102.1666667,66,0.3787878787878788,34,0
+Gobierno Departamental de Caazapá,2421166078.3,50,0.2,15,0
+Gobierno Departamental de Canindeyú,1145122637.2201834,109,0.08256880733944955,27,0
+Gobierno Departamental de Central,23665764579.732143,56,0.21428571428571427,47,0
+Gobierno Departamental de Concepción,1781963003.92,50,0.42,25,0
+Gobierno Departamental de Cordillera,1331232691.5833333,108,0.4074074074074074,47,0
+Gobierno Departamental de Guairá,1414193952.5526316,38,0.39473684210526316,22,0
+Gobierno Departamental de Itapua,1216544683.6577182,149,0.35570469798657717,70,0
+Gobierno Departamental de Misiones,6335546110.301587,63,0.42857142857142855,29,0
+Gobierno Departamental de Paraguarí,2451637350.37931,58,0.22413793103448276,32,0
+Gobierno Departamental de Presidente Hayes,2236760325.3333335,15,0.13333333333333333,13,0
+Gobierno Departamental de San Pedro,1182660365.3373494,83,0.46987951807228917,30,0
+Gobierno Departamental de Ñeembucú,4754829513.076923,52,0.11538461538461539,18,0
+Honorable Cámara de Diputados,1017249133.8717948,39,0.23076923076923078,25,0
+Honorable Cámara de Senadores,442661769.3636364,99,0.7474747474747475,73,2
+Hospital General Pediátrico Niños de Acosta Ñu,1755046275.4827585,87,0.3793103448275862,56,0
+Hospital Nacional,796905749.7555555,90,0.3888888888888889,62,0
+Hospital de Barrio Obrero,436244677.625,16,0.0625,16,0
+Industria Nacional del Cemento,2675914839.8070173,285,0.3719298245614035,125,1
+Instituto Forestal Nacional,93399531.2987013,77,0.7792207792207793,51,2
+Instituto Nacional de Cooperativismo,392198918.36,50,0.48,34,0
+Instituto Nacional de Desarrollo Rural y de la Tierra,1135020913.8256881,109,0.3853211009174312,72,0
+"Instituto Nacional de Educación Superior ""Dr. Raul Peña""",110962175.57142857,35,0.9142857142857143,26,2
+Instituto Nacional de Estadística,844200008.8441558,77,0.33766233766233766,45,0
+"Instituto Nacional de Tecnología, Normalización y Metrología",767081678.2987804,164,0.3353658536585366,88,1
+Instituto Nacional del Audiovisual Paraguayo,33984927.0,10,0.9,9,2
+Instituto Nacional del Cancer,22069921114.391666,120,0.15833333333333333,80,1
+Instituto Paraguayo de Artesania,77358474.86363636,44,0.8863636363636364,29,2
+Instituto Paraguayo de Tecnologia Agraria,433858160.92523366,107,0.5420560747663551,64,0
+Instituto Paraguayo del Indígena,2613454827.9347825,46,0.3695652173913043,33,0
+Instituto Superior de Bellas Artes,122541266.66666667,6,0.3333333333333333,6,0
+Instituto de Previsión Social,115766923574.45097,969,0.006191950464396285,239,4
+Jurado de Enjuiciamiento de Magistrados,136892347.69642857,56,0.8928571428571429,46,2
+Ministerio Público - Fiscalía,1326192312.5310733,177,0.2598870056497175,138,1
+Ministerio de Agricultura y Ganadería,2040648480.1456954,302,0.22847682119205298,172,1
+Ministerio de Defensa Nacional,62546430.35714286,14,1.0,12,2
+Ministerio de Desarrollo Social,737963446.6060606,99,0.45454545454545453,80,0
+Ministerio de Economía y Finanzas,1024900979.0355731,253,0.3241106719367589,151,1
+Ministerio de Educación y Ciencias,28581557382.798817,169,0.23668639053254437,102,1
+Ministerio de Industria y Comercio,302390320.37777776,90,0.6333333333333333,79,2
+Ministerio de Justicia,15186332539.455555,90,0.24444444444444444,67,0
+Ministerio de Obras Públicas y Comunicaciones,60605596030.55,220,0.08181818181818182,166,4
+Ministerio de Relaciones Exteriores,1914536299.7882352,85,0.3411764705882353,62,0
+Ministerio de Salud Pública y Bienestar Social,39713832759.93472,2206,0.2216681776971895,497,3
+Ministerio de Tecnologías de la Información y Comunicación,3028795595.3733335,75,0.3333333333333333,61,0
+"Ministerio de Trabajo, Empleo y Seguridad Social",900113518.9142857,70,0.45714285714285713,53,0
+"Ministerio de Urbanismo, Vivienda y Habitat",560725024.4931507,73,0.3972602739726027,64,0
+Ministerio de la Defensa Pública - Defensoría,772965193.2702702,74,0.527027027027027,57,0
+Ministerio de la Mujer,235767123.4473684,38,0.631578947368421,32,2
+Ministerio de la Niñez y la Adolescencia,487234343.9423077,104,0.5673076923076923,70,0
+Ministerio del Ambiente y Desarrollo Sostenible,1037805401.7118644,59,0.3220338983050847,47,0
+Ministerio del Interior,1427540765.125,80,0.3625,57,0
+Municipalidad de 25 de Diciembre,135500000.0,2,1.0,2,2
+Municipalidad de 3 de Febrero,252000000.0,1,0.0,1,0
+Municipalidad de 3 de Mayo,440289867.0,2,0.0,2,0
+Municipalidad de Acahay,241026222.25,12,0.8333333333333334,8,2
+Municipalidad de Alberdi,759500000.0,1,0.0,1,0
+Municipalidad de Alto Verá,495061361.8,5,0.0,4,0
+Municipalidad de Altos,178629623.65625,32,0.40625,15,0
+Municipalidad de Antequera,114098786.33333333,18,0.9444444444444444,10,2
+Municipalidad de Aregua,216106214.42424244,33,0.9090909090909091,14,2
+Municipalidad de Arroyos y Esteros,195168234.3846154,26,0.5384615384615384,15,0
+Municipalidad de Asunción,2936174697.109091,165,0.6363636363636364,100,1
+Municipalidad de Atyra,155753774.23076922,13,0.8461538461538461,10,2
+Municipalidad de Avaí,209991580.0,1,0.0,1,0
+Municipalidad de Ayolas,332817981.3888889,18,0.3333333333333333,12,0
+Municipalidad de Bahía Negra,324127500.0,2,0.5,2,0
+Municipalidad de Bella Vista - Itapúa,282887962.52380955,21,0.6190476190476191,14,2
+Municipalidad de Benjamín Aceval,322847585.65,20,0.0,12,0
+Municipalidad de Boquerón,168646550.9,10,0.6,7,2
+Municipalidad de Buena Vista,258549900.0,1,0.0,1,0
+Municipalidad de Caacupé,1385251995.6666667,39,0.6410256410256411,22,2
+Municipalidad de Caaguazú,396527640.90909094,11,0.45454545454545453,7,0
+Municipalidad de Caapucú,165338907.0,8,0.625,5,2
+Municipalidad de Caazapá,402093377.4444444,18,0.6111111111111112,9,2
+Municipalidad de Cambyretá,191060234.37349397,83,0.7590361445783133,30,2
+Municipalidad de Campo Aceval,175374008.4,5,0.6,5,2
+Municipalidad de Capiatá,287987513.4710744,242,0.859504132231405,46,2
+Municipalidad de Capiibary,204395462.1875,16,0.875,4,2
+Municipalidad de Capitán Meza,170645638.0,1,1.0,1,2
+Municipalidad de Capitán Miranda,228405599.23809522,21,0.5238095238095238,7,0
+Municipalidad de Caraguatay,143565514.06451613,31,0.7096774193548387,23,2
+Municipalidad de Carapeguá,184184173.6,10,0.5,9,0
+Municipalidad de Carayaó,407139500.0,2,0.5,2,0
+Municipalidad de Carmelo Peralta,36432670030.29412,17,0.7058823529411765,13,2
+Municipalidad de Carmen del Paraná,177795603.57894737,19,0.5263157894736842,13,0
+Municipalidad de Cerrito,140940000.0,1,1.0,1,2
+Municipalidad de Choré,229594000.0,2,0.5,2,0
+Municipalidad de Ciudad del Este,5249559492.354037,161,0.391304347826087,88,1
+Municipalidad de Concepción,247624651.26086956,46,0.8478260869565217,27,2
+Municipalidad de Coronel Bogado,175407118.3181818,22,0.4090909090909091,13,0
+Municipalidad de Coronel Martínez,163170000.0,1,1.0,1,2
+Municipalidad de Coronel Oviedo,175822003.72,150,0.9333333333333333,45,2
+Municipalidad de Corpus Christi,645612000.0,1,0.0,1,0
+Municipalidad de Cárlos Antonio López,194488501.78947368,19,0.6842105263157895,10,2
+Municipalidad de Domingo Martínez de Irala,164063037.04166666,24,0.8333333333333334,11,2
+Municipalidad de Dr. Bottrell,158004000.0,1,1.0,1,2
+Municipalidad de Dr. Cecilio Báez,138667606.9375,16,0.9375,8,2
+Municipalidad de Dr. Raul Peña,146572614.65384614,26,0.8461538461538461,13,2
+Municipalidad de Edelira,205184154.5,34,0.7352941176470589,15,2
+Municipalidad de Emboscada,194387608.7419355,31,0.6774193548387096,15,2
+Municipalidad de Encarnación,742752133.0394737,152,0.6381578947368421,81,2
+Municipalidad de Escobar,184942373.75,4,0.5,3,0
+Municipalidad de Eusebio Ayala,120400310.51351352,37,0.6756756756756757,23,2
+Municipalidad de Fernando de la Mora,154953026.81909546,199,0.9597989949748744,66,2
+Municipalidad de Filadelfia,269318608.8666667,30,0.8333333333333334,21,2
+Municipalidad de Fram,137231999.0,29,0.7241379310344828,18,2
+Municipalidad de Fuerte Olimpo,336562500.0,4,0.5,4,0
+Municipalidad de Fulgencio Yegros,274906723.1666667,6,0.6666666666666666,2,2
+Municipalidad de Félix Pérez Cardozo,275976080.0,2,0.0,1,0
+Municipalidad de General Artigas,184207117.23809522,21,0.6666666666666666,12,2
+Municipalidad de General Delgado,189755822.5,4,0.0,3,0
+Municipalidad de Gral Jose M. Bruguez,371474742.8,5,0.6,2,2
+Municipalidad de Gral. Bernardino Caballero,127739136.4,35,0.8857142857142857,14,2
+Municipalidad de Gral. Elizardo Aquino,155149079.07692307,26,0.7307692307692307,14,2
+Municipalidad de Gral. Francisco Caballero Alvarez,149364859.84210527,19,0.8421052631578947,9,2
+Municipalidad de Gral. Francisco I. Resquin,154701229.25,16,0.5,8,0
+Municipalidad de Gral. Higinio Morínigo,216893875.5,2,0.5,2,0
+Municipalidad de Guajayvi,123050000.0,1,1.0,1,2
+Municipalidad de Guarambaré,132258630.52222222,90,0.9111111111111111,29,2
+Municipalidad de Hernandarias,741660829.7934783,92,0.4673913043478261,56,0
+Municipalidad de Hohenau,249969401.04761904,21,0.6666666666666666,14,2
+Municipalidad de Horqueta,332522752.25,4,0.5,3,0
+Municipalidad de Independencia,229957900.0,1,0.0,1,0
+Municipalidad de Iruña,155776006.88235295,34,0.8823529411764706,18,2
+Municipalidad de Isla Pucú,109228313.5625,16,0.8125,10,2
+Municipalidad de Itacurubí de las Cordilleras,143916587.0,18,0.7222222222222222,10,2
+Municipalidad de Itacurubí del Rosario,157010680.7777778,9,0.8888888888888888,5,2
+Municipalidad de Itakyry,187863622.41935483,31,0.7419354838709677,16,2
+Municipalidad de Itanará,137846593.67741936,31,0.8387096774193549,15,2
+Municipalidad de Itapé,134685554.0,5,0.8,4,2
+Municipalidad de Itapúa Poty,167079826.6153846,26,0.8461538461538461,11,2
+Municipalidad de Itaugua,287080942.3103448,87,0.8620689655172413,38,2
+Municipalidad de Itá,388972246.625,16,0.4375,11,0
+Municipalidad de J. Augusto Saldivar,120668531.9,10,0.6,8,2
+Municipalidad de Jesús,99000000.0,1,1.0,1,2
+Municipalidad de José Domingo Ocampos,185651821.93548387,31,0.8064516129032258,13,2
+Municipalidad de José Falcón,206222357.33333334,9,0.4444444444444444,4,0
+Municipalidad de José Leandro Oviedo,129915122.15789473,19,0.8421052631578947,7,2
+Municipalidad de Juan E. O'Leary,85781222.77777778,9,0.8888888888888888,9,2
+Municipalidad de Juan Eulogio Estigarribia,441880378.75,4,0.0,2,0
+Municipalidad de Juan León Mallorquín,124598797.03921568,51,0.7647058823529411,31,2
+Municipalidad de Juan Manuel Frutos,176018500.0,1,1.0,1,2
+Municipalidad de Juan de Mena,210425886.5,10,0.7,7,2
+Municipalidad de Karapai,144502262.5,4,0.75,3,2
+Municipalidad de Katuete,179583624.77272728,44,0.7727272727272727,16,2
+Municipalidad de Lambaré,560819561.5949367,79,0.5316455696202531,48,0
+Municipalidad de Laurel,68517480.0,1,1.0,1,2
+Municipalidad de Limpio,632105713.0,11,0.2727272727272727,9,0
+Municipalidad de Loma Grande,132949043.68,25,0.88,18,2
+Municipalidad de Loma Plata,136015709.2173913,46,0.8695652173913043,29,2
+Municipalidad de Loreto,330177865.71428573,14,0.5714285714285714,5,2
+Municipalidad de Luque,262331164.37980768,208,0.875,57,2
+Municipalidad de Maracaná,180981323.65384614,26,0.8076923076923077,17,2
+Municipalidad de Maria Antonia,88687369.25,4,0.75,3,2
+Municipalidad de Mariano Roque Alonso,577975156.5909091,66,0.5,34,0
+Municipalidad de Mayor Otaño,253134536.9047619,21,0.6190476190476191,14,2
+Municipalidad de Mbaracayú,182770078.18421054,38,0.7105263157894737,23,2
+Municipalidad de Mbocayaty del Yhaguy,185594119.0,12,0.75,7,2
+Municipalidad de Mbuyapey,317726440.3333333,3,0.3333333333333333,3,0
+Municipalidad de Mcal Jose Félix Estigarribia,851056033.7333333,15,0.7333333333333333,13,2
+Municipalidad de Mcal. Francisco Solano López,115088061.65384616,26,0.8846153846153846,9,2
+Municipalidad de Minga Guazú,448914184.4047619,84,0.5714285714285714,42,0
+Municipalidad de Minga Porá,224500994.4375,48,0.6041666666666666,17,2
+Municipalidad de Nanawa,147069305.5,6,0.8333333333333334,6,2
+Municipalidad de Naranjal,168482155.42424244,33,0.8484848484848485,23,2
+Municipalidad de Natalio,167901819.75,8,0.5,8,0
+Municipalidad de Nueva Alborada,215468031.42857143,7,0.42857142857142855,7,0
+Municipalidad de Nueva Asunción,78575000.0,2,0.0,2,0
+Municipalidad de Nueva Colombia,86696956.8409091,44,0.9318181818181818,16,2
+Municipalidad de Nueva Esperanza,121689036.0886076,79,0.8481012658227848,33,2
+Municipalidad de Nueva Italia,202326636.79166666,24,0.5416666666666666,15,0
+Municipalidad de Nueva Londres,135544650.0,1,1.0,1,2
+Municipalidad de Nueva Toledo,215022670.5,10,0.5,8,0
+Municipalidad de Obligado,267009309.0,10,0.4,9,0
+Municipalidad de Paraguarí,151438134.66666666,27,0.7407407407407407,14,2
+Municipalidad de Paso Barreto,179148947.57142857,7,0.7142857142857143,6,2
+Municipalidad de Paso Yobai,393764052.0,4,0.25,4,0
+Municipalidad de Pedro Juan Caballero,1199746961.7323945,71,0.6338028169014085,32,2
+Municipalidad de Pilar,343950923.75510204,49,0.5918367346938775,25,2
+Municipalidad de Pirapó,181839171.05,20,0.65,13,2
+Municipalidad de Pirayú,181491943.70588234,34,0.8529411764705882,23,2
+Municipalidad de Piribebuy,298714807.9047619,21,0.5714285714285714,15,2
+Municipalidad de Presidente Franco,440303659.0294118,102,0.803921568627451,44,2
+Municipalidad de Primero de Marzo,124020071.33333333,6,1.0,5,2
+Municipalidad de Puerto Adela,125165523.2,40,0.825,12,2
+Municipalidad de Puerto Pinasco,207308307.26666668,15,0.8666666666666667,10,2
+Municipalidad de Quiindy,157386574.30769232,39,0.8974358974358975,23,2
+Municipalidad de R.I. 3 Corrales,109845571.42857143,7,0.14285714285714285,5,0
+Municipalidad de Raúl Arsenio Oviedo,296168164.2,15,0.6666666666666666,9,2
+Municipalidad de Repatriación,178357492.0,14,0.8571428571428571,10,2
+Municipalidad de Salto del Guairá,291814253.8888889,171,0.7485380116959064,60,2
+Municipalidad de San Alberto,269112209.90909094,11,0.7272727272727273,9,2
+Municipalidad de San Antonio,160592571.6025641,78,0.8076923076923077,29,2
+Municipalidad de San Bernardino,354769166.0,16,0.625,14,2
+Municipalidad de San Cosme y Damián,200875599.0909091,11,0.6363636363636364,11,2
+Municipalidad de San Cristobal,138685543.62790698,43,0.7209302325581395,27,2
+Municipalidad de San Estanislao,102671159.90476191,84,0.9047619047619048,15,2
+Municipalidad de San Ignacio,164259614.5,84,0.8571428571428571,36,2
+Municipalidad de San Joaquín,359636750.0,4,0.25,4,0
+Municipalidad de San José Obrero,299969366.0,13,0.46153846153846156,6,0
+Municipalidad de San José de los Arroyos,163077954.56,25,0.88,11,2
+Municipalidad de San Juan Bautista,172801994.7142857,21,0.7619047619047619,14,2
+Municipalidad de San Juan Nepomuceno,489109199.4,5,0.2,4,0
+Municipalidad de San Juan del Paraná,288154276.71428573,7,0.7142857142857143,4,2
+Municipalidad de San Lorenzo,1933511595.55,100,0.64,62,2
+Municipalidad de San Lázaro,262569797.2222222,9,0.3333333333333333,7,0
+Municipalidad de San Miguel,188107540.3043478,23,0.782608695652174,15,2
+Municipalidad de San Pedro del Paraná,213130950.27586207,29,0.5862068965517241,10,2
+Municipalidad de San Pedro del Ycuamandiyú,174590138.0,12,0.8333333333333334,3,2
+Municipalidad de San Rafael del Paraná,168217322.52380952,21,0.8095238095238095,13,2
+Municipalidad de San Roque González de Santa Cruz,258129349.0,8,0.125,4,0
+Municipalidad de San Salvador,92177050.0,2,1.0,2,2
+Municipalidad de Santa Elena,259353908.83333334,6,0.16666666666666666,5,0
+Municipalidad de Santa Fé del Paraná,162664355.53333333,45,0.7777777777777778,21,2
+Municipalidad de Santa María,484417375.0,2,0.0,2,0
+Municipalidad de Santa Rita,221705381.01449275,69,0.8115942028985508,29,2
+Municipalidad de Santa Rosa Misiones,143655939.4074074,27,0.5185185185185185,17,0
+Municipalidad de Santa Rosa del Aguaray,234601827.5,18,0.6111111111111112,8,2
+Municipalidad de Santa Rosa del Mbutuy,208974049.1388889,36,0.7222222222222222,12,2
+Municipalidad de Santa Rosa del Monday,176126465.81578946,38,0.7894736842105263,20,2
+Municipalidad de Santiago,377291846.7692308,13,0.07692307692307693,9,0
+Municipalidad de Sapucai,317060864.28571427,7,0.2857142857142857,6,0
+Municipalidad de Sargento Jóse Félix López,104272062.5,2,1.0,2,2
+Municipalidad de Simón Bolivar,146061011.25,8,0.375,4,0
+Municipalidad de Tavapy,157695387.22727272,22,0.8181818181818182,15,2
+Municipalidad de Tavaí,744018500.0,2,0.5,2,0
+Municipalidad de Tebicuary,810915911.0,2,0.0,2,0
+Municipalidad de Tebicuarymi,124840221.6,5,0.8,5,2
+Municipalidad de Tembiapora,176284526.8888889,27,0.7407407407407407,18,2
+Municipalidad de Tobatí,159730463.82857144,35,0.8,14,2
+Municipalidad de Tomás Romero Pereira,189369512.23076922,52,0.8076923076923077,33,2
+Municipalidad de Trinidad,335844594.3333333,12,0.5,8,0
+Municipalidad de Tte Esteban Martinez,151826482.33333334,3,0.0,3,0
+Municipalidad de Tte Irala Fernandez,332763157.0,16,0.5,13,0
+Municipalidad de Unión,113288587.5,8,1.0,3,2
+Municipalidad de Valenzuela,238068700.0,2,0.5,2,0
+Municipalidad de Vaquería,299130000.0,4,0.0,2,0
+Municipalidad de Villa Curuguaty,119941334.69565217,46,0.9565217391304348,18,2
+Municipalidad de Villa Elisa,1453187407.7142856,7,0.42857142857142855,7,0
+Municipalidad de Villa Franca,192845786.625,8,0.75,6,2
+Municipalidad de Villa Hayes,251302811.2142857,14,0.6428571428571429,11,2
+Municipalidad de Villa Ygatimí,142601688.2,25,0.88,12,2
+Municipalidad de Villa del Rosario,156276166.57142857,14,0.7857142857142857,8,2
+Municipalidad de Villarrica,574899053.3333334,3,0.3333333333333333,3,0
+Municipalidad de Villeta,166049807.23880598,67,0.8656716417910447,16,2
+Municipalidad de Yabebyry,368850500.0,1,0.0,1,0
+Municipalidad de Yaguaron,205218803.16666666,12,0.8333333333333334,6,2
+Municipalidad de Yasy Cañy,184703917.10526314,19,0.7368421052631579,9,2
+Municipalidad de Yataity del Guairá,206742000.0,2,0.5,2,0
+Municipalidad de Yataity del Norte,314040526.0,2,0.0,2,0
+Municipalidad de Yatytay,193047947.6875,16,0.6875,9,2
+Municipalidad de Ybycui,175378040.2,5,0.6,5,2
+Municipalidad de Ybytimi,199531591.66666666,6,0.8333333333333334,4,2
+Municipalidad de Yguazú,191660983.58620688,29,0.7241379310344828,19,2
+Municipalidad de Yhú,184716046.30769232,13,0.7692307692307693,7,2
+Municipalidad de Ypacarai,153437276.86956522,23,0.9130434782608695,5,2
+Municipalidad de Ypané,466050156.1764706,17,0.47058823529411764,8,0
+Municipalidad de Ypejhu,163820507.39130434,23,0.782608695652174,13,2
+Municipalidad de Yrybucuá,155732559.0,25,0.88,8,2
+Municipalidad de Yuty,333484315.0,11,0.6363636363636364,7,2
+Municipalidad de la Colmena,217347880.0,5,0.2,3,0
+Municipalidad de la Paloma del Espiritu Santo,151492095.6388889,36,0.7777777777777778,15,2
+Municipalidad de la Pastora,144361808.0,5,0.4,5,0
+Municipalidad de la Paz,142725420.5652174,23,0.7391304347826086,12,2
+Municipalidad de los Cedrales,186434508.66666666,24,0.75,14,2
+Municipalidad de Ñacunday,175702734.96153846,26,0.8076923076923077,16,2
+Municipalidad de Ñemby,1033879471.3846154,13,0.23076923076923078,10,0
+Municipalidad de Ñumi,246400000.0,1,0.0,1,0
+Petróleos Paraguayos,28955324562.30142,282,0.1595744680851064,194,1
+Policia Nacional,5050907507.145299,585,0.1623931623931624,239,1
+Presidencia de la República,74681913.08333333,60,0.9166666666666666,43,2
+Procuraduria General de la Republica,87204514.7826087,23,0.9565217391304348,16,2
+Programa Ampliado de Inmunizaciones,472427902.95454544,22,0.45454545454545453,17,0
+Rectorado,219936072.51153848,260,0.6615384615384615,132,1
+Secretaria Nacional Anticorrupcion,19388969.14285714,7,1.0,5,2
+Secretaria Nacional de Bienes Incautados y Comisados,54198834.7,10,0.9,8,2
+Secretaria Nacional de Cultura,445230933.15789473,76,0.47368421052631576,57,0
+Secretaria Nacional de Deportes,6661810460.746268,134,0.1791044776119403,81,1
+Secretaria Nacional de Turismo,1036530718.0363636,55,0.509090909090909,49,0
+Secretaria Nacional de la Juventud,19096999.6,10,1.0,10,2
+Secretaria Nacional por los Derechos Humanos de las Personas con Discapacidad,895152182.6593406,91,0.46153846153846156,57,0
+Secretaria de Defensa del Consumidor y el Usuario,68988174.41935484,31,0.9032258064516129,24,2
+Secretaria de Emergencia Nacional,407522770.7777778,36,0.3055555555555556,32,0
+Secretaria de Politicas Linguisticas,46046765.23076923,13,0.9230769230769231,11,2
+Secretaria de Prevención de Lavado de Dinero,206299612.12903225,31,0.8064516129032258,22,2
+Secretaria de Repatriados,129491411.67857143,28,0.8928571428571429,28,2
+Secretaría Nacional Antidrogas,464474332.8611111,72,0.625,49,2
+Secretaría Nacional de Inteligencia,16712359.666666666,6,1.0,3,2
+Servicio Nacional de Calidad y Salud Animal,956221059.5669014,284,0.40492957746478875,174,1
+Servicio Nacional de Calidad y Sanidad Vegetal y de Semillas,831130065.7888889,180,0.31666666666666665,108,1
+Servicio Nacional de Promocion Profesional,2328053671.715909,88,0.20454545454545456,64,0
+Servicio Nacional de Saneamiento Ambiental- SENASA,1277619388.4117646,34,0.35294117647058826,28,0
+Sindicatura General de Quiebras,638777452.918919,37,0.6216216216216216,27,2
+Sistema Nacional de Formación y Capacitación Laboral,3188276462.0526314,76,0.47368421052631576,60,0
+Suoc Cordillera,116519603.6,35,0.7428571428571429,27,2
+Tribunal Superior de Justicia Electoral,3559345247.0842824,439,0.07289293849658314,332,1
+Unidad Administrativa Financiera Nro. 2,180895541.43076923,65,0.7384615384615385,43,2
+Universidad Nacional de Asunción,478969066.2688172,93,0.3763440860215054,40,0
+Universidad Nacional de Canindeyu,86926414.58333333,72,0.9305555555555556,40,2
+Universidad Nacional de Concepción,88974366.125,152,0.8092105263157895,55,2
+Universidad Nacional de Itapúa,154963883.63432837,134,0.7611940298507462,56,2
+Universidad Nacional de Pilar,61775939.57446808,47,0.9787234042553191,18,2
+Universidad Nacional de Villarrica del Espiritu Santo,171395980.34848484,66,0.5454545454545454,52,0
+Universidad Politécnica Taiwán – Paraguay,269280735.7692308,13,0.38461538461538464,10,0
+Vicepresidencia de la República,151458924.78947368,38,0.8421052631578947,32,2
