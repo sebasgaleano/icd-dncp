@@ -50,7 +50,6 @@ Universidad Comunera — 2025
 | Fuente | DNCP — Portal de Datos Abiertos |
 |---|---|
 | URL | https://www.contrataciones.gov.py/datos |
-| Licencia | CC BY 4.0 |
 | Período | 2021–2022 |
 | Volumen final | 25.360 registros × 27 columnas |
 | Tablas | adjudicaciones, contratos |

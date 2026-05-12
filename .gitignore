@@ -6,6 +6,10 @@ dist/
 wheels/
 *.egg-info
 /org
+.vscode
+.python-version
+pyproject.toml
+uv.lock
 
 
 # Virtual environments
