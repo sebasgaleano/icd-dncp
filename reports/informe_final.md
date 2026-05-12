@@ -5,8 +5,7 @@
 ---
 
 **Universidad Comunera — Maestría en Ciencia de Datos**  
-**Dataset:** Portal de Datos Abiertos DNCP — https://www.contrataciones.gov.py/datos  
-**Licencia:** CC BY 4.0  
+**Dataset:** Portal de Datos Abiertos DNCP — https://www.contrataciones.gov.py/datos   
 **Período analizado:** 2021–2022  
 **Herramientas:** Python 3.14 | pandas | scikit-learn | matplotlib | seaborn
 
@@ -370,9 +369,3 @@ revela patrones estructurales relevantes:
 
 ---
 
-## Referencias
-
-- Portal de Datos Abiertos DNCP: https://www.contrataciones.gov.py/datos
-- Licencia CC BY 4.0: http://creativecommons.org/licenses/by/4.0/
-- Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12, 2825-2830.
-- McKinney, W. (2010). Data Structures for Statistical Computing in Python. SciPy 2010.
