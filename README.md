@@ -15,7 +15,7 @@ Contrataciones Públicas (DNCP). Cubre desde la limpieza de datos crudos
 hasta la construcción y evaluación de modelos predictivos y descriptivos.
 
 **Trabajo Práctico  — Maestría en Ciencia de Datos**  
-Universidad Comunera — 2025
+Universidad Comunera 
 
 ---
 
