@@ -188,46 +188,53 @@ Split 80/20 con estratificación:
 
 **Features utilizadas:**
 
-| Feature | Tipo |
-|---|---|
-| tipo_proc_agrupado | Categórica (LabelEncoder) |
-| categoria_corta | Categórica (LabelEncoder) |
-| monto_total_adjudicado | Numérica |
-| monto_periodo | Numérica |
+| Feature | Tipo | Preprocesamiento |
+|---|---|---|
+| tipo_proc_agrupado | Categórica | OneHotEncoder |
+| categoria_corta | Categórica | OneHotEncoder |
+| monto_total_adjudicado | Numérica | StandardScaler |
+| monto_periodo | Numérica | StandardScaler |
+
+Las variables categóricas se codificaron con OneHotEncoder (una columna binaria
+por categoría), evitando la asunción de orden numérico entre categorías. Las
+variables numéricas se estandarizaron con StandardScaler para que la Regresión
+Logística pueda operar correctamente sobre features en escalas distintas. El
+preprocesador se fitea exclusivamente sobre el conjunto de entrenamiento.
 
 ### Resultados
 
 | Modelo | Accuracy | F1 (clase 0) | F1 (clase 1) |
 |---|---|---|---|
-| Regresión Logística | 0.43 | 0.00 | 0.60 |
-| Random Forest | 0.90 | 0.91 | 0.89 |
+| Regresión Logística | 0.76 | 0.79 | 0.71 |
+| Random Forest | 0.90 | 0.90 | 0.89 |
 
-La Regresión Logística falló completamente — predijo siempre clase 1,
-incapaz de separar las clases con relaciones lineales. El Random Forest
-capturó las relaciones no lineales y alcanzó 90% de accuracy con F1
-balanceado entre clases.
+Ambos modelos lograron separar las clases. La Regresión Logística alcanzó
+76% de accuracy con F1 balanceado — resultado razonable para un modelo lineal
+sobre datos con relaciones complejas. El Random Forest superó ampliamente con
+90% de accuracy y F1 consistente entre clases, confirmando que las relaciones
+en el dataset son fundamentalmente no lineales.
 
 ### Matriz de confusión — Random Forest
 
 |  | Predicho: Sin competencia | Predicho: Con competencia |
 |---|---|---|
-| **Real: Sin competencia** | 2.493 ✓ | 377 ✗ |
-| **Real: Con competencia** | 114 ✗ | 2.020 ✓ |
+| **Real: Sin competencia** | 2.462 ✓ | 408 ✗ |
+| **Real: Con competencia** | 109 ✗ | 2.025 ✓ |
 
-El modelo comete más errores clasificando procesos con competencia como
-sin competencia (114 Falsos Negativos) que al revés (377 Falsos Positivos).
-Tiende a subestimar la competencia real, no a sobreestimarla.
+El modelo comete más errores clasificando procesos sin competencia como
+con competencia (408 Falsos Positivos) que al revés (109 Falsos Negativos).
+Tiende a sobreestimar la competencia real, no a subestimarla.
 
 ### Importancia de variables
 
 | Variable | Importancia |
 |---|---|
-| monto_total_adjudicado | 0.390 |
-| monto_periodo | 0.331 |
-| categoria_corta | 0.211 |
-| tipo_proc_agrupado | 0.067 |
+| monto_total_adjudicado | 0.358 |
+| monto_periodo | 0.332 |
+| categoria_corta | 0.225 |
+| tipo_proc_agrupado | 0.085 |
 
-El monto explica el 72% del poder predictivo combinado con `monto_periodo`.
+El monto explica el 69% del poder predictivo combinado con `monto_periodo`.
 El tipo de procedimiento tiene el menor peso — la presencia o ausencia de
 competencia está determinada principalmente por el valor del contrato y
 la categoría del bien o servicio, no por la modalidad legal elegida.
@@ -353,9 +360,9 @@ revela patrones estructurales relevantes:
   control — el 12% de todos los procesos anuales se concentran en un solo mes.
 
 **Sobre los modelos:**
-- El Random Forest superó a los modelos lineales en clasificación (F1=0.90)
-  y regresión (R²=0.95), confirmando que las relaciones en datos de
-  contratación pública son fundamentalmente no lineales.
+- El Random Forest superó a la Regresión Logística en clasificación (F1=0.90
+  vs 0.75 macro) y en regresión (R²=0.95 vs 0.34), confirmando que las
+  relaciones en datos de contratación pública son fundamentalmente no lineales.
 - El monto del contrato es el predictor más importante tanto para predecir
   competencia como para predecir el monto mismo — el tamaño del contrato
   determina su naturaleza.
